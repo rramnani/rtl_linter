@@ -23,3 +23,11 @@ This project provides a Python script to lint RTL (Register Transfer Level) code
 Clone the repository:
    git clone https://github.com/rramnani/rtl-lint-script.git
    cd rtl-lint-script
+   
+### Project Structure
+
+Contributions are welcome! If you have suggestions for improvements or additional features, feel free to open an issue or submit a pull request.
+
+### Contact
+
+For questions or feedback, please contact ramnani.rohit.k@gmail.com
