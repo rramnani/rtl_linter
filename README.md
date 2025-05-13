@@ -27,6 +27,7 @@ Clone the repository:
 ## Project Structure
 
 ├── [rtl_linter.py        # Main linting script
+
 ├── README.md             # Project documentation
 
 ## Contributing
