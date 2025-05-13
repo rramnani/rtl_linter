@@ -25,6 +25,11 @@ Clone the repository:
    cd rtl-lint-script
    
 ### Project Structure
+.
+├── [integer_no_range.py](http://_vscodecontentref_/0)   # Main linting script
+├── README.md             # Project documentation
+
+### Contributing
 
 Contributions are welcome! If you have suggestions for improvements or additional features, feel free to open an issue or submit a pull request.
 
