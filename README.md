@@ -25,9 +25,8 @@ Clone the repository:
    cd rtl-lint-script
    
 ## Project Structure
-.
-├── [rtl_linter.py        # Main linting script
 
+├── [rtl_linter.py        # Main linting script
 ├── README.md             # Project documentation
 
 ## Contributing
