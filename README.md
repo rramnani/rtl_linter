@@ -24,15 +24,16 @@ Clone the repository:
    git clone https://github.com/rramnani/rtl-lint-script.git
    cd rtl-lint-script
    
-### Project Structure
+## Project Structure
 .
-├── [integer_no_range.py](http://_vscodecontentref_/0)   # Main linting script
+├── [rtl_linter.py        # Main linting script
+
 ├── README.md             # Project documentation
 
-### Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or additional features, feel free to open an issue or submit a pull request.
 
-### Contact
+## Contact
 
 For questions or feedback, please contact ramnani.rohit.k@gmail.com
