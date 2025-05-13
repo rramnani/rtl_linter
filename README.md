@@ -21,12 +21,12 @@ This project provides a Python script to lint RTL (Register Transfer Level) code
 ### Installation
 
 Clone the repository:
-   git clone https://github.com/rramnani/rtl-lint-script.git
+   git clone https://github.com/rramnani/rtl_linter.git
    cd rtl-lint-script
    
 ## Project Structure
 
-├── [rtl_linter.py        # Main linting script
+├── linter.py             # Main linting script
 
 ├── README.md             # Project documentation
 
